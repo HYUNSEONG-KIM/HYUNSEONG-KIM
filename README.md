@@ -8,7 +8,4 @@
 - See short note and tech reports on [my gists](https://gist.github.com/HYUNSEONG-KIM).
 - Academic publication and results are uploaded at [Zenodo](https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest).
 
-<!---
-HYUNSEONG-KIM/HYUNSEONG-KIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Hyunseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYUNSEONG-KIM/)](https://github.com/anuraghazra/github-readme-stats)
