@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HYUNSEONG-KIM
-- 👀 I’m interested in computational physics, quantum informatics and computing
-- 🌱 I’m currently learning physics as a bachelor course in Gwangju Institute of Sicence and Technology (GIST)
-- 💞️ I’m looking to collaborate on ... scientific projects.
+- 👀 I’m interested in computational physics, quantum complexity theory.
+- 🌱 I’m PhD student in Applied Physics Program at Rice University.
 - 📫 Contact me with qwqwhsnote@gm.gist.ac.kr
 - See [Profile site](https://hyunseong-kim.github.io/) for details
 - I am also interested in book and printing programs, see [HornPenguin organization repository](https://github.com/HornPenguin); my own organization.
